@@ -89,7 +89,6 @@ The walkthrough covers the dataset, model comparison, threshold selection and a 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:00c6ff&height=90&section=header" width="100%" alt="wave divider"/>
 
 ## 📈 Key Results
 
