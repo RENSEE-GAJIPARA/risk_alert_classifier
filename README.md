@@ -54,9 +54,9 @@ Only **~12% of customers are high risk**, so this is an **imbalanced classificat
 
 <div align="center">
 
-### 👉 [**Open the Live App**](https://YOUR-APP-NAME.streamlit.app) 👈
+### 👉 [**Open the Live App**](https://riskalertclassifier.streamlit.app/) 👈
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-NAME.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://riskalertclassifier.streamlit.app/)
 
 </div>
 
@@ -68,8 +68,6 @@ Enter a customer's profile (income, credit score, missed payments, utilisation, 
 | **Risk Probability** | Model probability for the High-Risk class |
 | **Recommendation** | Manual-review alert for high-risk customers |
 | **Model Accuracy** | Test-set accuracy loaded from `final_metrics.json` |
-
-> 🔧 *Replace `https://YOUR-APP-NAME.streamlit.app` with your deployed Streamlit Community Cloud URL.*
 
 ---
 
